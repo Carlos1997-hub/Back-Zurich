@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Zurich\\ZurichApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7403E2F7-4DE5-48E9-BB93-538E46AC7E8D}|..\\ZurichAppTests\\ZurichAppTests.csproj|c:\\users\\carlo\\onedrive\\escritorio\\zurich\\zurichapptests\\quotescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7403E2F7-4DE5-48E9-BB93-538E46AC7E8D}|..\\ZurichAppTests\\ZurichAppTests.csproj|c:\\users\\carlo\\onedrive\\escritorio\\zurich\\zurichapptests\\policiescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7403E2F7-4DE5-48E9-BB93-538E46AC7E8D}|..\\ZurichAppTests\\ZurichAppTests.csproj|c:\\users\\carlo\\onedrive\\escritorio\\zurich\\zurichapptests\\clientscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C761B9-35BD-4F64-8D0F-0A061792DC32}|ZurichApp.csproj|c:\\users\\carlo\\onedrive\\escritorio\\zurich\\zurichapp\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C761B9-35BD-4F64-8D0F-0A061792DC32}|ZurichApp.csproj|solutionrelative:repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7403E2F7-4DE5-48E9-BB93-538E46AC7E8D}|..\\ZurichAppTests\\ZurichAppTests.csproj|c:\\users\\carlo\\onedrive\\escritorio\\zurich\\zurichapptests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuotesControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Zurich\\ZurichAppTests\\QuotesControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\ZurichAppTests\\QuotesControllerTests.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Zurich\\ZurichAppTests\\QuotesControllerTests.cs*",
+              "RelativeToolTip": "..\\ZurichAppTests\\QuotesControllerTests.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:33:19.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PoliciesControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Zurich\\ZurichAppTests\\PoliciesControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\ZurichAppTests\\PoliciesControllerTests.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Zurich\\ZurichAppTests\\PoliciesControllerTests.cs",
+              "RelativeToolTip": "..\\ZurichAppTests\\PoliciesControllerTests.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:32:53.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Zurich\\ZurichAppTests\\ClientsControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\ZurichAppTests\\ClientsControllerTests.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Zurich\\ZurichAppTests\\ClientsControllerTests.cs",
+              "RelativeToolTip": "..\\ZurichAppTests\\ClientsControllerTests.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:32:02.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Zurich\\ZurichApp\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Zurich\\ZurichApp\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:27:40.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Zurich\\ZurichAppTests\\AuthServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\ZurichAppTests\\AuthServiceTests.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Zurich\\ZurichAppTests\\AuthServiceTests.cs",
+              "RelativeToolTip": "..\\ZurichAppTests\\AuthServiceTests.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAiwKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:24:33.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
